@@ -20,7 +20,7 @@
 
 - 👋 Hi, I’m Youssef EL F'HAYEL
 - 🌱 I’m currently a Data Science & Knowledge Engineering student
-- 👀 I’m interested in Data Science, ML, DL, Computer vision and more Data related topics
+- 👀 I’m interested in Data Science, ML, DL, Computer vision and other Data related topics
 
 ---
 
