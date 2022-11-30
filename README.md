@@ -12,14 +12,15 @@
   <img src="https://komarev.com/ghpvc/?username=yfhcode&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 👋 Hi, I’m @YFHcode
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+### :man_technologist: About Me :
+
+- 👋 Hi, I’m Youssef EL F'HAYEL
+- 🌱 I’m currently a Data Science & Knowledge Engineering student
+- 👀 I’m interested in Data Science, ML, DL, Computer vision and more Data related topics
 - 📫 How to reach me ...
 
 <!---
