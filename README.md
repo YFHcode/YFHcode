@@ -24,47 +24,68 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Data Science & Knowledge Engineering Student**
-- 🌱 Currently delving into **Data Science, Machine Learning, Deep Learning, and Computer Vision**
-- 💡 Exploring **innovative solutions** in data-related fields and staying updated with the latest trends
+I’m **Youssef EL F'HAYEL**, a **Junior Data Engineer / Big Data Engineer** specializing in **Big Data**, **Distributed Systems**, and **Cloud Computing (GCP)**. I have hands-on experience in designing, developing, and deploying end-to-end data engineering solutions that drive real-time analytics, support AI models, and enable scalable, resilient data architectures. My competencies include:
+
+- **Big Data Processing**: Expertise in **Apache Spark** (Structured Streaming, Spark ML) and **Hadoop Ecosystem** (HDFS, Hive) for high-performance, distributed data processing.
+- **Data Pipeline Development**: Proficient in building ETL and real-time data ingestion pipelines using **Apache Kafka**, **Apache Beam**, and **Google Cloud Dataflow**, ensuring seamless integration from diverse data sources.
+- **Cloud Data Systems (GCP)**: Skilled in Google Cloud services such as **BigQuery**, **Dataflow**, **Pub/Sub**, **Datastream**, and **Cloud Storage** to build robust, scalable, and cost-effective cloud architectures.
+- **Data Quality and Optimization**: Implement data quality checks during ETL processes using Dataflow and design data systems optimized for performance and resource efficiency with tools like **Delta Lake** and **Terraform**.
+- **AI and ML Integration**: Experience with tuning and deploying AI models, including Large Language Models (LLMs), for SQL generation, natural language processing, and real-time predictions in data engineering workflows.
+
+I'm passionate about leveraging data engineering to drive insights, streamline operations, and deliver impactful solutions. Let’s connect to discuss data-driven innovations and explore new opportunities in the world of big data and cloud computing!
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Python, SQL, R
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-Learn
-- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn
-- **Other Tools:** Git, Docker, Jupyter Notebooks, Tableau, Power BI
+#### Programming & Query Languages
+- **Python, SQL, Scala, Java**: Data processing, ETL scripting, and distributed computing
+- **R**: Statistical analysis and data manipulation
+
+#### Data Engineering & Big Data Tools
+- **Apache Spark** (Structured Streaming, ML), **Apache Kafka**, **Apache Airflow** for workflow orchestration
+- **Delta Lake**: Efficient data storage and retrieval
+- **Apache Beam**: Unified model for batch and streaming data processing
+
+#### Cloud Platforms
+- **Google Cloud Platform (GCP)**:
+  - **BigQuery**: Data warehousing and analytics
+  - **Dataflow**: Real-time data processing
+  - **Pub/Sub**: Messaging and event-driven systems
+  - **Datastream**: Continuous data replication
+  - **Terraform**: Infrastructure provisioning and automation
+
+#### Additional Tools
+- **Docker**: Containerization for application scaling
+- **FastAPI**: API development for data access and integration
+- **Power BI**: Data visualization for business insights
+- **Version Control**: Git for source code management
 
 ---
 
 ### 📂 Featured Projects
 
-- **[Project 1: Data-Driven Insights for XYZ Company](https://github.com/yfhcode/project1)**  
-  Developed a full analysis pipeline to uncover insights in XYZ’s data, leading to a 15% boost in efficiency.
+- **[Real-Time Data Replication from Postgres to BigQuery](https://github.com/yfhcode/gcp-data-replication)**  
+  Implemented a data replication process using **Google Datastream** to ensure real-time synchronization between Postgres and BigQuery, enabling up-to-date analytics for business decision-making.
 
-- **[Project 2: Machine Learning Model for Image Classification](https://github.com/yfhcode/project2)**  
-  Built and deployed a CNN model for image classification with high accuracy, achieving over 90% on a custom dataset.
+- **[Real-Time Streaming Pipeline with Apache Kafka and Spark Structured Streaming](https://github.com/yfhcode/real-time-kafka-spark)**  
+  Built a robust data pipeline using **Apache Kafka** for data ingestion and **Spark Structured Streaming** for real-time data transformations, with integrated data quality checks and Delta Lake storage.
 
-- **[Project 3: Data Visualization Dashboard for Business Metrics](https://github.com/yfhcode/project3)**  
-  Created an interactive dashboard with Power BI to track and visualize key metrics, enhancing data-driven decision-making.
+- **[AI Model Deployment for SQL Generation using LLMs](https://github.com/yfhcode/llm-sql-generator)**  
+  Fine-tuned and deployed a **Large Language Model (Gemma-7b)** to generate SQL queries from natural language, incorporating optimization techniques such as quantization and Low-Rank Adaptation to reduce model size and GPU usage.
 
----
-
-### 📝 Recent Blog Posts
-
-> I also write articles to share my knowledge and insights. Check out some of my recent posts:
-
-- [Understanding Machine Learning Algorithms: A Beginner's Guide](https://medium.com/@yfhcode/machine-learning-algorithms-guide)
-- [5 Tips for Data Science Beginners](https://medium.com/@yfhcode/data-science-tips)
-- [An Introduction to Computer Vision](https://medium.com/@yfhcode/computer-vision-intro)
+- **[GCP-Based Data Lake for Real-Time Analytics](https://github.com/yfhcode/gcp-data-lake)**  
+  Designed and implemented a scalable data lake on GCP using **Cloud Storage**, **BigQuery**, and **Dataflow**, supporting real-time and batch processing for comprehensive analytics capabilities.
 
 ---
 
-### 💬 Let's Connect
+### 🌐 Recent Blog Posts
 
-I'm always excited to connect with like-minded individuals. Whether you have a question, a project idea, or just want to chat about data science, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/youssef-el-fhayel/) or email me at youssef.el-fhayel@esi.ac.ma.
+> I write about data engineering, big data solutions, and cloud architecture. Here are a few recent articles:
+
+- [Building Scalable Data Pipelines with Apache Kafka and Spark](https://medium.com/@yfhcode/kafka-spark-pipelines)
+- [Data Lake vs. Data Warehouse on Google Cloud Platform](https://medium.com/@yfhcode/gcp-data-lake-vs-warehouse)
+- [Optimizing Big Data Workflows with Delta Lake](https://medium.com/@yfhcode/delta-lake-optimization)
 
 ---
 
@@ -81,4 +102,7 @@ I'm always excited to connect with like-minded individuals. Whether you have a q
 </div>
 
 ---
-<!--- YFHcode/YFHcode is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. You can click the Preview link to see your changes in action. --->
+
+### 💬 Let's Connect
+
+I’m always open to connecting with data enthusiasts and professionals in data engineering, big data, and cloud computing. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/youssef-el-fhayel/) or email me at youssef.el-fhayel@esi.ac.ma. Let’s innovate and build data-driven solutions together!
